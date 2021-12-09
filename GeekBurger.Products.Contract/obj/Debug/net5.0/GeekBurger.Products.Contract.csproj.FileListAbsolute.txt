@@ -1,0 +1,11 @@
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\bin\Debug\net5.0\GeekBurger.Products.Contract.deps.json
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\bin\Debug\net5.0\GeekBurger.Products.Contract.dll
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\bin\Debug\net5.0\ref\GeekBurger.Products.Contract.dll
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\bin\Debug\net5.0\GeekBurger.Products.Contract.pdb
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\GeekBurger.Products.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\GeekBurger.Products.Contract.AssemblyInfoInputs.cache
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\GeekBurger.Products.Contract.AssemblyInfo.cs
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\GeekBurger.Products.Contract.csproj.CoreCompileInputs.cache
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\GeekBurger.Products.Contract.dll
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\ref\GeekBurger.Products.Contract.dll
+D:\Rodrigo\repos\Fiap.GeekBurger\GeekBurger.Products.Contract\obj\Debug\net5.0\GeekBurger.Products.Contract.pdb
